@@ -1,0 +1,158 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "productName": "Chai",
+      "slug": "chai",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "categoryName": "Condiments",
+      "price": "30"
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "Chang",
+      "slug": "chang",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "categoryName": "Beverages",
+      "price": "30"
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Chef Anton's Cajun Seasoning",
+      "slug": "chef-antons-cajun-seasoning",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "categoryName": "Beverages",
+      "price": "30"
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "productName": "Chef Anton's Gumbo Mix",
+      "slug": "chef-antons-gumbo-mix",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "categoryName": "Condiments",
+      "price": "30"
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "productName": "Grandma's Boysenberry Spread",
+      "slug": "grandmas-boysenberry-spread",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "categoryName": "Condiments",
+      "price": "30"
+    },
+    {
+      "id": 7,
+      "categoryId": 7,
+      "productName": "Uncle Bob's Organic Dried Pears",
+      "slug": "uncle-bobs-organic-dried-pears",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "categoryName": "Produce",
+      "price": "30"
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "productName": "Northwoods Cranberry Sauce",
+      "slug": "northwoods-cranberry-sauce",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "categoryName": "Condiments",
+      "price": "30"
+    },
+    {
+      "id": 9,
+      "categoryId": 6,
+      "productName": "Mishi Kobe Niku",
+      "slug": "mishi-kobe-niku",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "categoryName": "Poultry",
+      "price": "30"
+    },
+    {
+      "id": 10,
+      "categoryId": 8,
+      "productName": "Ikura",
+      "slug": "ikura",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "categoryName": "Seafood",
+      "price": "30"
+    },
+    {
+      "id": 11,
+      "categoryId": 4,
+      "productName": "Queso Cabrales",
+      "slug": "queso-cabrales",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "categoryName": "Products",
+      "price": "30"
+    },
+    {
+      "id": 12,
+      "categoryId": 4,
+      "productName": "Queso Manchego La Pastora",
+      "slug": "queso-manchego-la-pastora",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "categoryName": "Products",
+      "price": "30"
+    },
+    {
+      "id": 13,
+      "categoryId": 8,
+      "productName": "Konbu",
+      "slug": "konbu",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "categoryName": "Seafood",
+      "price": "30"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Beverages"
+    },
+    {
+      "id": 2,
+      "categoryName": "Condiments"
+    },
+    {
+      "id": 3,
+      "categoryName": "Confections"
+    },
+    {
+      "id": 4,
+      "categoryName": "Products"
+    },
+    {
+      "id": 5,
+      "categoryName": "Cereals"
+    },
+    {
+      "id": 6,
+      "categoryName": "Poultry"
+    },
+    {
+      "id": 7,
+      "categoryName": "Produce"
+    },
+    {
+      "id": 8,
+      "categoryName": "Seafood"
+    }
+  ]
+}
